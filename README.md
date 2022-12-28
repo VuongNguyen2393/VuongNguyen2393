@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VuongNguyen2393
 - 👀 I’m interested in ML/AI and Data Science
-- 🌱 I’m currently in Cloud Data Engineer Role
+- 🌱 I’m in Cloud Data Engineer Role and Back End Developer Role concurrently
 - 💞️ I’m looking to collaborate on some project.
 - 📫 How to reach me: nguyendinhvuong.act@gmail.com
 
